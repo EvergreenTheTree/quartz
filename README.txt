@@ -1,3 +1,6 @@
+NOTE: This repository has been moved to https://github.com/minetest-mods/quartz
+Please use that repository instead.
+
    ___                   _         __  __           _
   / _ \ _   _  __ _ _ __| |_ ____ |  \/  | ___   __| |
  | | | | | | |/ _` | '__| __|_  / | |\/| |/ _ \ / _` |
